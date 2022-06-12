@@ -9,7 +9,7 @@ This project is a collaboration of two up and coming developers, Jason Hull and 
 # About the App
 WELCOME TO TRACK A TRAIN v .1.0 !!
 
-This project tackles one of the lesser know problems in todays society. That is how long will a train take to pass through a busy intersection. Oten commuters are faced with the problem of waiting for a train to pass but have no idea how long it will take. This can lead to unexpected problems such as being late for a meeting or even just being stuck in traffic when there are alternate routes to take. Sometimes this issue is unavoidlable but this app will help estimate the wait time and provide peace of mind for commuters. NOTE: This is application is a work in progress and will be updated soon.
+This project tackles one of the lesser know problems in todays society. That is how long will a train take to pass through a busy intersection. Often commuters are faced with the problem of waiting for a train to pass but have no idea how long it will take. This can lead to unexpected problems such as being late for a meeting or even just being stuck in traffic for longer amounts of time than necessary. Sometimes this issue is unavoidlable, but with Track A Train users will be able to help estimate the wait time and it provide alternate routes for commuters to take to avoid potential train crossings. NOTE: This is application is a work in progress and will be updated soon.
 
 ## Common Actions
 
